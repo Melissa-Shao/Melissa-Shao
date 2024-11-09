@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Melissa 🌻</h1>
-<h3>A BCIT CST student who are looking for a co-op !</h3>
+<h3>A BCIT CST student!</h3>
 
 🪑 Worked in the financial field for over eight years.
 
