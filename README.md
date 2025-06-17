@@ -30,6 +30,11 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-8722ff?style=for-the-badge&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+
 
 <h4>Databases</h4>
 
