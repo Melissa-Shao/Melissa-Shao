@@ -25,7 +25,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Kendo UI](https://img.shields.io/badge/Kendo_UI-0A7DBC?style=for-the-badge)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge) 
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
