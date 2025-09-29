@@ -3,9 +3,9 @@
 <h3>A BCIT CST student!</h3>
 
 🪑 Worked in the financial field for over eight years.
-    Currently interning as a Full-Stack Developer at Wärtsilä Canada.
+    Interned as a Full-Stack Developer at Wärtsilä Canada for 9 months.
 
-🌱 Dream Doer, lifelong learner, Critical Thinker.
+🌱 Dream Doer, Lifelong Learner, Critical Thinker.
 
 🪂 Love travelling and crocheting.
 
